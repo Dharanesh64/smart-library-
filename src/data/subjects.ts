@@ -1,0 +1,22 @@
+export const subjects = [
+  'Computer Science',
+  'Mathematics',
+  'Physics',
+  'Chemistry',
+  'Biology',
+  'History',
+  'Literature',
+  'Economics',
+  'Psychology',
+  'Philosophy',
+  'Engineering',
+  'Medicine',
+  'Law',
+  'Business',
+  'Art',
+  'Music',
+  'Geography',
+  'Political Science',
+  'Sociology',
+  'Anthropology'
+];
